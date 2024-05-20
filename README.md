@@ -31,7 +31,7 @@ git clone https://github.com/Das-Suparna/Task2_Data_Science_Nullclass_Word_Check
 2.Install the required dependencies:
 
 ```
-pip install -r requirements.txt
+pip install pyenchant
 ```
 
 Usage
