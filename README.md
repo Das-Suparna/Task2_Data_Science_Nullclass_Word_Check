@@ -12,27 +12,21 @@ This Python script provides a simple GUI application to check the spelling of wo
 ## Installation
 
 1. Clone the repository:
-
 ```
 git clone https://github.com/Das-Suparna/Task2_Data_Science_Nullclass_Word_Check.git
 ```
 
 2. Move to Directory
-
 ```
 cd Task2_Data_Science_Nullclass_Word_Check
 ```
    
 3.Install the required dependencies:
-
 ```
 pip install pyenchant
 ```
 
-Usage
-
-Run the script word_checker.py to launch the application:
-
+4. Run the application
 ```
 python task2_words_suggestions.py
 ```
