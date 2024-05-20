@@ -28,7 +28,13 @@ The Word Checker application allows users to enter words and check if they are s
 git clone https://github.com/Das-Suparna/Task2_Data_Science_Nullclass_Word_Check.git
 ```
 
-2.Install the required dependencies:
+2. Move to Directory
+
+```
+cd Task2_Data_Science_Nullclass_Word_Check
+```
+   
+3.Install the required dependencies:
 
 ```
 pip install pyenchant
