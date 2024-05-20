@@ -25,7 +25,7 @@ The Word Checker application allows users to enter words and check if they are s
 1. Clone the repository:
 
 ```
-git clone https://github.com/your-username/word-checker.git
+git clone https://github.com/Das-Suparna/Task2_Data_Science_Nullclass_Word_Check.git
 ```
 
 2.Install the required dependencies:
