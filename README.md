@@ -46,7 +46,7 @@ Enter words in the provided input field and click the "Check" button to check th
 
 ![Word Checker 19-05-2024 15_30_10](https://github.com/Das-Suparna/Task2_Data_Science_Nullclass_Word_Check/assets/131431013/bff9cc23-97f9-4454-a2ff-c6c9ef48fe46)
 
-![Word Checker 20-05-2024 21_04_49](https://github.com/Das-Suparna/Task2_Data_Science_Nullclass_Word_Check/assets/131431013/91102136-e31f-4d7e-9bbd-feed7db3df9c)
+![Word Checker 20-05-2024 21_14_35](https://github.com/Das-Suparna/Task2_Data_Science_Nullclass_Word_Check/assets/131431013/4f328ffd-2256-4bdc-ac92-e5610b27a0e0)
 
 ![Word Checker 20-05-2024 21_08_47](https://github.com/Das-Suparna/Task2_Data_Science_Nullclass_Word_Check/assets/131431013/44ae5062-3d27-46be-a44a-e27ef9db49db)
 
