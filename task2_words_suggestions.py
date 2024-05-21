@@ -21,7 +21,7 @@ def handle_input():
         clear_suggestions()
     elif not check_word(word):
         wrong_words.append(word)
-        if len(wrong_words) >= 2:
+        if len(wrong_words) == 2:
             label_of_output.config(text=f"'{word}' word is not available" , fg="red")
             labelling_wrong_wordings.config(text="Words Wrongly entered so far: " + ", ".join(wrong_words))
             suggestions_label.config(text="Suggestions for the wrong words:")
@@ -38,6 +38,7 @@ def handle_input():
                 
         else:
             label_of_output.config(text=f"'{word}' word is not available" , fg="red")
+            labelling_wrong_wordings.config(text=" ")
             suggestions = find_suggestions(word)
             if suggestions:
                 suggestions_label.config(text="Suggestions:")
